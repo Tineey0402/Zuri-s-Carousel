@@ -1,2 +1,2 @@
 # Zuri-s-Carousel
-An image slider
+# was tasked to Create a Carousel/Slideshow with 6 different images of  your choice
